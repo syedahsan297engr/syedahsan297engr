@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Syed Muhammad Ahsan👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/syedahsan297engr"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;C++/C+Programmer;Python+Programmer;Data+Scientist;Embedded+Systems+Engineer;Deep+Learning&center=true&width=500&height=50"></a>
+<a href="https://github.com/syedahsan297engr"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;C"+"/C+Programmer;Python+Programmer;Data+Scientist;Embedded+Systems+Engineer;Deep+Learning&center=true&width=500&height=50"></a>
 	
  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
