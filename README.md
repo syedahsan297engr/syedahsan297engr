@@ -11,7 +11,7 @@
 - 🥅 I wish to learn about Web Development
 - 💎 If you are a Tech boy/girl let's get connected  
  
-<h2>Tech Stack</h2>
+<h2>Programming Languages/FrameWorks</h2>
 
 <table width="100">
 <tr>
