@@ -3,14 +3,12 @@
     <h1> Hi there, I'm Syed Muhammad Ahsan👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/syedahsan297engr"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Cpp/C+Programmer;Python+Programmer;Data+Scientist;Embedded+Systems+Engineer;Deep+Learning&center=true&width=500&height=50"></a>
+<a href="https://github.com/syedahsan297engr"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Cpp/C+Programmer;Python+Programmer;Data+Scientist;Embedded+Systems+Engineer;NLP;Computer+Vision;Deep+Learning&center=true&width=500&height=50"></a>
 
-### I'm a Python Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Backend Engineer @Turingcom.
-- 🌱 I’m currently expanding my knowledge in DevOps.
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 500 students.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+### I'm an Electrical Engineer with majors in Computer
+- 🔭 I’m currently studying Machine Learning, NLP, Computer Vision and Embedded Systems.
+- 📢 Love to teach and inspire students.
+- 🥅 I wish to learn about Web Development
 - 💎 If you are a Tech boy/girl let's get connected  
  
 <h2>Tech Stack</h2>
