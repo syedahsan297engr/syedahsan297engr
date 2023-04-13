@@ -57,16 +57,16 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCMDKShG3k0NPzNIqv35o-C-AwAsbycmBmBSo_TFIc&s"  width="80">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80">
+        <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="80">
     </td>
  <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+        <img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl=w240-h480-rw" width="80">
     </td>
      <td align='center'>
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
+        <img src="https://camo.githubusercontent.com/985dacf7c531ee3cc64599c1b461aeba1ea161061a02081c8c4fc6308ee3bb8a/68747470733a2f2f7777772e646a616e676f70726f6a6563742e636f6d2f6d2f696d672f6c6f676f732f646a616e676f2d6c6f676f2d6e656761746976652e706e67">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png">
     </td>
 </tr>
     
