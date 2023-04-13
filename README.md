@@ -51,6 +51,24 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
     </td>
 </tr>
+  
+  <tr>
+    <td align='center'>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCMDKShG3k0NPzNIqv35o-C-AwAsbycmBmBSo_TFIc&s"  width="80">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80">
+    </td>
+ <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+    </td>
+     <td align='center'>
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
+    </td>
+</tr>
     
 </table>
 </p>
