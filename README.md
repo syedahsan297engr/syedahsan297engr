@@ -73,9 +73,9 @@
 </table>
 </p>
 <p align="center">
-<a href="linkedin.com/in/syed-muhammad-ahsan297"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="syedahsannoori@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/Syed_M_Ahsan/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="linkedin.com/in/syed-muhammad-ahsan297"><img src="https://img.shields.io/badge/-Syed%20Ahsan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="syedahsannoori@gmail.com"><img src="https://img.shields.io/badge/-syedahsannoori@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/Syed_M_Ahsan/"><img src="https://img.shields.io/badge/-/Syed_M_Ahsan-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
  
 <br>
