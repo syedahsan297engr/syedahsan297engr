@@ -77,8 +77,8 @@
 <a href="mailto:syedahsannoori@gmail.com"><img src="https://img.shields.io/badge/-syedahsannoori@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/Syed_M_Ahsan/"><img src="https://img.shields.io/badge/-/Syed_M_Ahsan-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
- <br>
   
+ <br>
   <h2>GitHub Analytics
  </h2>
 
