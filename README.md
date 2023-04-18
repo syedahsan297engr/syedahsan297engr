@@ -78,18 +78,5 @@
 <a href="https://leetcode.com/Syed_M_Ahsan/"><img src="https://img.shields.io/badge/-/Syed_M_Ahsan-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
  
-<br>
-  
-  <h2>GitHub Analytics
- </h2>
 
-<p align="center">
-<a href="https://github.com/syedahsan297engr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedahsan297engr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syedahsan297engr&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedahsan297engr&show_icons=true&locale=en&layout=demo&theme=algolia" />
-</p>
-</p>
-<br>
  
