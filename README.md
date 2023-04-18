@@ -79,18 +79,17 @@
  </p>
   
  <br>
+ 
   
  <h2>GitHub Analytics
  </h2>
 
 <p align="center">
-<a href="https://github.com/syedahsan297engr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedahsan297engr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syedahsan297engr&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/mubashar-nouman">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mubashar-nouman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mubashar-nouman&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedahsan297engr&show_icons=true&locale=en&layout=demo&theme=algolia" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mubashar-nouman&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 </p>
 <br>
-
- 
