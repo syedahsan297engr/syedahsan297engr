@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying Machine Learning, NLP, Computer Vision and Embedded Systems.
 - 📢 Love to teach and inspire students.
 - 🥅 I wish to learn about Web Development
-- 💎 If you are a Tech boy/girl let's get connected  
+- 💎 If you are a Tech guy let's get connected  
  
 <h2>Skills</h2>
 
