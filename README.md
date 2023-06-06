@@ -81,9 +81,9 @@
  <br>
  <h2>GitHub Analytics</h2>
  <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/syedahsan297engr">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=syedahsan297engr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedahsan297engr&layout=compact&langs_count=9&theme=algolia" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedahsan297engr&layout=compact&langs_count=10&theme=algolia" />
   </a>
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=syedahsan297engr&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
