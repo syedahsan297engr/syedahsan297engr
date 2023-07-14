@@ -6,7 +6,7 @@
 <a href="https://github.com/syedahsan297engr"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning;Cpp/C+Programmer;Python+Programmer;Embedded+Systems;NLP;Computer+Vision;Deep+Learning&center=true&width=500&height=50"></a>
 
 ### I'm an Electrical Engineer with majors in Computer
-- 🔭 I’m currently studying Machine Learning, NLP, Computer Vision and Embedded Systems.
+- 🔭 I’m currently studying Machine Learning, Web Development and Embedded Systems.
 - 📢 Love to teach and inspire students.
 - 🥅 I wish to learn about Web Development
 - 💎 If you are a Tech guy let's get connected  
