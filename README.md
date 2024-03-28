@@ -6,7 +6,7 @@
 <a href="https://github.com/syedahsan297engr"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning;Cpp/C+Programmer;Python+Programmer;Embedded+Systems;React;Node;Java;Spring+Boot;MySQL;Deep+Learning&center=true&width=500&height=50"></a>
 
 ### I'm an Electrical Engineer with majors in Computer
-- 🔭 I’m currently studying Machine Learning, Web Development and Embedded Systems.
+- 🔭 I’m currently studying Machine Learning and Web Development.
 - 📢 Working As a Software Engineer (Java). 
  
 <h2>Skills</h2>
