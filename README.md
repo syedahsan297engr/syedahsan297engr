@@ -7,7 +7,7 @@
 
 ### I'm an Electrical Engineer with majors in Computer Science
 - 🔭 I’m currently studying Machine Learning and Web Development.
-- 📢 Working As a Software Engineer (Java). 
+- 📢 Working As a Software Engineer (Java, Python). 
  
 <h2>Skills</h2>
 
