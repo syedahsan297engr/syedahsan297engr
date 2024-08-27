@@ -5,9 +5,9 @@
 <p align="center">
 <a href="https://github.com/syedahsan297engr"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning;Cpp/C+Programmer;Python+Programmer;Embedded+Systems;React;Node;Java;Spring+Boot;MySQL;Deep+Learning&center=true&width=500&height=50"></a>
 
-### I'm an Electrical Engineer with majors in Computer Science
+### I'm a Software Engineer specializing in FullStack Web development.
 - 🔭 I’m currently studying Machine Learning and Web Development.
-- 📢 Working As a Software Engineer (Java, Python). 
+- 📢 Working As a Software Engineer (Javascript, TypeScript). 
  
 <h2>Skills</h2>
 
