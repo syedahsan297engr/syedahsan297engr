@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Syed Muhammad Ahsan<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/syedahsan297engr"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning;Cpp/C+Programmer;Python+Programmer;Embedded+Systems;React;Node;Java;Spring+Boot;MySQL;Deep+Learning&center=true&width=500&height=50"></a>
+<a href="https://github.com/syedahsan297engr"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning;Software+Engineering&center=true&width=500&height=50"></a>
 
 ### I'm a Software Engineer specializing in FullStack Web development.
 - I’m currently studying Machine Learning and Web Development.
